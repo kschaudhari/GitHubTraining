@@ -1,1 +1,2 @@
 This is first line in demo to commit
+This is for testing new changes for commit
