@@ -1,2 +1,3 @@
 This is first line in demo to commit
+User 2 made changes to line 2
 User 1 branch created
