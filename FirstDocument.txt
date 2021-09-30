@@ -1,4 +1,7 @@
 This is first line in demo to commit
-This is for testing new changes for commit
-This is user2 changes
-This is now pushed from user 1
+
+User 2 made changes to line 2
+User 1 adding new line
+
+
+User 1 branch created
